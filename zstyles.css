@@ -1,0 +1,36 @@
+.navbar {
+  padding-top: 25px;
+  background-color: coral;
+}
+
+.navbar-header span{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#our-menu{
+  font-size:1.8em;
+  margin-bottom:50px;
+  font-weight: bold;
+}
+
+.menu-text {
+  font-size: .9em;
+  font-weight: normal;
+  text-align: left;
+}
+
+/* #main-content {
+  background-color: darkgrey;   
+} */
+
+#menu-details {
+  background-color: oldlace; 
+}
+h3.menu-item-title{
+  font-weight: bold;
+}
+
+#nav-list {
+  text-align:center;
+}
